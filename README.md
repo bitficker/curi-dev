@@ -1,3 +1,3 @@
-# tiagocuri
+# "Falar é fácil, mostre-me o código..." - Linus Torvalds
 
-Testando repositório de perfil de apresentação.
+
