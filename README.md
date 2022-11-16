@@ -6,13 +6,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=curi-dev&show_icons=true&hide=contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<addr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curi-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-* Going on deep learning of ReactJS, Nodejs and ReactNative at <a href="https://rocketseat.com.br/">Rockeseat</a> bootcamp.
-* A Production Engineering student at Laureate international Universities (IBMR - Rio de Janeiro).
-* Code lover.
-* Plays guitar and likes to run on free time.
-
-### Tools and Technologies
-
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><addr>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"><addr>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><addr>
